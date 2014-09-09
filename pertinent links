@@ -1,0 +1,20 @@
+SCHEMA: https://api.steampowered.com/IEconItems_570/GetSchema/v0001/?key=95ECFD455AD79817C0AFB6E9917B2241
+
+key = 95ECFD455AD79817C0AFB6E9917B2241
+?key=95ECFD455AD79817C0AFB6E9917B2241
+
+steamid = 76561198066614739
+&steamid=76561198066614739
+
+dota2id = 570
+
+Supported API List:
+http://api.steampowered.com/ISteamWebAPIUtil/GetSupportedAPIList/v0001/?key=95ECFD455AD79817C0AFB6E9917B2241
+
+
+My Items:
+http://api.steampowered.com/IEconItems_570/GetPlayerItems/v0001/?key=95ECFD455AD79817C0AFB6E9917B2241&steamid=76561198066614739&format=json&custom_name=true
+
+
+FAQs:
+http://dev.dota2.com/showthread.php?t=58317
